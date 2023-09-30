@@ -21,6 +21,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AmineF0&border_radius=6.5&card_width=500)](https://git.io/streak-stats)
 
+![LeetCode Stats](https://leetcode.card.workers.dev/AmineF0?theme=nord&font=baloo)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmineF0&layout=compact&theme=vision-friendly-dark)](https://github.com/AmineF0/github-readme-stats)
 
 
